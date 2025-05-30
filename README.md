@@ -13,9 +13,9 @@ I'm a Computer Science and Engineering (CSE) student passionate about **cybersec
   - IoT Pentesting  
   - Hardware Pentesting  
 - 🤖 **Robotics:** Enthusiast for embedded systems and automation  
-- 🚀 **Space Technology:** Fascinated by satellites, space missions, and astronomical computing  
-- 🌱 **Personality:** I enjoy solitude and deep focus, using this time for learning and building
-- 🫣 **Routine:** I wake-up & try to create something iconic 1
+- 🚀 **Space Technology:** Fascinated by satellites, space missions, and astronomical computing. 
+- 🌱 **Personality:** I enjoy solitude and deep focus, using this time for learning and building. 
+- 🫣 **Routine:** I wake-up & try to create something iconic. 
 ---
 
 ## Philosophy
