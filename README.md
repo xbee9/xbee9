@@ -1,6 +1,6 @@
 ## WHO AM I? 
-Heyyy Hello! Welcome to my profile!  
-I'm a Computer Science and Engineering (CSE) student passionate about **cybersecurity**, **robotics**, and **space technology**. I also have a strong interest in **cloud pentesting**, **IoT pentesting**, and **hardware pentesting**.
+**Heyyy Hello! Welcome to my profile!** 
+I'm a Computer Science and Engineering (CSE) student passionate about **cybersecurity**, **Hardware Pentesting**, and **Artificial Intelligence**. I also have a strong interest in **Robotics**, and **Space Technology**.
 
 ---
 
@@ -11,7 +11,9 @@ I'm a Computer Science and Engineering (CSE) student passionate about **cybersec
 - 🛡️ **Cybersecurity Interests:**  
   - Cloud Pentesting  
   - IoT Pentesting  
-  - Hardware Pentesting  
+  - Hardware Pentesting
+  - OT security
+  - IOT pentesting etc.
 - 🤖 **Robotics:** Enthusiast for embedded systems and automation  
 - 🚀 **Space Technology:** Fascinated by satellites, space missions, and astronomical computing. 
 - 🌱 **Personality:** I enjoy solitude and deep focus, using this time for learning and building. 
