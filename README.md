@@ -39,7 +39,7 @@ This quote inspires my journey of constant growth, curiosity, and the pursuit of
 
 - GitHub: [xbee9](https://github.com/xbee9)
 - Instagram: [0xbee9](https://Instagram.com/0xbee9)
-- YouTube: [xbee9](https://YouTube.com/xbee9) 
+- YouTube: [xbee9](https://YouTube.com/@xbee9) 
 - Feel free to connect for collaborations, mentorship, or discussions in my fields of interest!
 
 ---
