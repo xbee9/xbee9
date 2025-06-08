@@ -36,6 +36,9 @@ This quote inspires my journey of constant growth, curiosity, and the pursuit of
 - Collaborate with like-minded individuals and organizations
 
 ---
+![Visitor Count](https://profile-counter.glitch.me/xbee9/count.svg)
+
+---
 
 ## Get in Touch
 
